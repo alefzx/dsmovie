@@ -1,9 +1,10 @@
-
+import  Navi from './Components/Navibar/index'
 
 
 function App() {
   return (
-   <h1>Pagina principal</h1>
+   <Navi />
+
   );
 }
 
